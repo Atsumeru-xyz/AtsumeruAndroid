@@ -11,7 +11,7 @@ Download actual version from [Releases](https://github.com/AtsumeruDev/AtsumeruA
 
 # Launching
 
-Just download corresponding `apk` for your device processor architecture, install it and launch
+Just download corresponding `apk` for your device processor architecture, install it and launch  
 If you don't know your processor architecture - simply use `uni` version
 
 # Documentation 
